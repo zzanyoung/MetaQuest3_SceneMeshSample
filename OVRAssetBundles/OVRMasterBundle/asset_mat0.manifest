@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1573242652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e048f7645a2026363447571899a85e2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e048f7645a2026363447571899a85e2f
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Materials/SystemGestureSkeletonBoneMaterial.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandPinchMaterial.mat
+- Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Materials/SystemGestureHandMaterial.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandCursor.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Green.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Blue.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Materials/SkeletonBoneMaterial.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Red.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Volume.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Plane.mat
+- Assets/Oculus/VR/Editor/BuildingBlocks/BlockData/HandTracking/Materials/DefaultHandMaterial.mat
+Dependencies:
+- C:/Users/KETI/Desktop/Q3TestApp_OVR/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/KETI/Desktop/Q3TestApp_OVR/OVRAssetBundles/OVRMasterBundle/asset_shader0

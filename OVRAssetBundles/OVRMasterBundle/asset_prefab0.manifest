@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3703457185
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41703fa4d00530db9f84cedd28254310
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9cee2dcf0be776fc7b2b6134ac215d52
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 41703fa4d00530db9f84cedd28254310
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 337d67c8752f4d542bc432fdeba8f797, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ad2d11993f599542b0d0c2ba898434a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2253d75e3ddc644b8153409c62dd74e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1c4a1713e5d1b4409a95470bcf9e5b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c4c07da5cd8e024e81c2b08152058fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ab3ec25e32ce0c4380714d75e39cb05, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: VolumeAndPlaneSwitcher/LabelGeometryPair
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/GlobalMesh/Global Mesh
+  Basic.prefab
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/Plane.prefab
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Prefabs/Volume.prefab
+- Assets/Oculus/VR/Prefabs/OVRSceneManager.prefab
+Dependencies:
+- C:/Users/KETI/Desktop/Q3TestApp_OVR/OVRAssetBundles/OVRMasterBundle/asset_mat0
