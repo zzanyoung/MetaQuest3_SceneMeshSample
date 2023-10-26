@@ -32,7 +32,10 @@ Solution: Force quit and restart
 8) Open Asset/MetaQuest3_SceneMeshSample/SceneMeshSample.Scene
 9) Test or Edit
 
-* SceneMesh_Material = Pre-scanned Space Data Mesh
+<h2>SceneMesh</h2> 
+
+* SceneMesh_Material == Pre-scanned Space Data Mesh
+* The space mesh (SceneMesh_Material) is drawn as a translucent white material. If you want to see it more clearly, change to a non-transparent material.
 
 <h2>Reference</h2> 
 https://developer.oculus.com/documentation/unity/unity-scene-mesh/
