@@ -7,6 +7,7 @@ Loads a mesh based on the user's room settings (not guardian settings) and creat
 
 <h2>Environment</h2> 
 
+- Meta Quest3
 - Unity 2022.3.11f1 <br>
 - OculusIntegration_v57
 - OculusXR (NOT OpenXR)
@@ -27,8 +28,9 @@ Solution: Force quit and restart
     - Change Scripting Backend to IL2CPP
     - Change Target Architectures to ARM64
 6) Check only Oculus in ProjectSetting/XR Plug-in Management
-7) Open Asset/MetaQuest3_SceneMeshSample/SceneMeshSample.Scene
-8) Test or Edit
+7) Select Oculus/Tools/ProjectSetupTool from the editor menu, Fix and Apply unchecked items
+8) Open Asset/MetaQuest3_SceneMeshSample/SceneMeshSample.Scene
+9) Test or Edit
 
 
 <h2>Reference</h2> 
