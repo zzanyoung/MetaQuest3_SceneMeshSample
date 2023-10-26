@@ -15,7 +15,7 @@ Loads a mesh based on the user's room settings (not guardian settings) and creat
 
 <h2>Getting Started Guide</h2> 
 
-1) Clone or download the repository.
+1) Clone the repository.
 2) Load the project from Unity Hub
      - When you first load a project, the entire editor may be grayed out (presumably an issue with the Unity editor).
 Solution: Force quit and restart
