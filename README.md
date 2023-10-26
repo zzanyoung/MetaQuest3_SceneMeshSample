@@ -32,6 +32,7 @@ Solution: Force quit and restart
 8) Open Asset/MetaQuest3_SceneMeshSample/SceneMeshSample.Scene
 9) Test or Edit
 
+* SceneMesh_Material = Pre-scanned Space Data Mesh
 
 <h2>Reference</h2> 
 https://developer.oculus.com/documentation/unity/unity-scene-mesh/
