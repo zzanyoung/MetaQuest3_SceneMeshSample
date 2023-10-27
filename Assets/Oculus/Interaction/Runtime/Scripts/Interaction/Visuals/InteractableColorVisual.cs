@@ -119,6 +119,7 @@ namespace Oculus.Interaction
                 case InteractableState.Select:
                     return _selectColorState;
                 case InteractableState.Hover:
+                    
                     return _hoverColorState;
                 case InteractableState.Normal:
                     return _normalColorState;
