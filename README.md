@@ -11,7 +11,7 @@ Loads a mesh based on the user's room settings (not guardian settings) and creat
 - Unity 2022.3.11f1 <br>
 - OculusIntegration_v57
 - OculusXR (NOT OpenXR)
-- Pre-scanned Space Data (NOT guardian settings, NOT furniture settings)
+- Pre-scanned Space Data (Room Settings, NOT guardian settings, NOT furniture settings)
 
 <h2>Getting Started Guide</h2> 
 
